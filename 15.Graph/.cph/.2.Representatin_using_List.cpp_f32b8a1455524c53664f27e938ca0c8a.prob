@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"c:\\Users\\dalbe\\.vscode\\Data structure\\15.Graph\\2.Representatin_using_List.cpp","tests":[{"id":1675927046639,"input":"5 6\n1 2\n2 3\n3 4 \n4 5 \n5 1\n1 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\dalbe\\.vscode\\Data structure\\15.Graph\\2.Representatin_using_List.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+## Stack =>Stack is a linear data structure that follows LIFO(Last In First Out) Order
